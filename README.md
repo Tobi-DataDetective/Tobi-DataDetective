@@ -12,11 +12,13 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
     this. I have the ability to assess each data analysis task from a strategic perspective; meaning the work I carry out will be beneficial to your organizational goals. I have the ability to work to strict deadlines; a high level of numerical and mathematical
     ability; an inquisitive and statistical driven approach to all tasks, and I also possess strong communication and interpersonal skills, which means I can fit quickly and seamlessly into any team or department. Finally, I have a natural passion for
     accurate working and attention to detail, which means if you invest in me and hire me as your Data Analyst, the work I will carry out will be of a high-quality and also useful in terms of helping you move forward as an organization.</h3>
-<img align="right" alt="Data Science" width="600" height="180" src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
+<img align="right" alt="Data Science" width="400" height="180" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobi-datadetective&label=Profile%20views&color=0e75b6&style=flat" alt="tobi-datadetective" /> </p>
 
-🔵 **Connect with me:** * [![Follow](https://img.shields.io/twitter/follow/FolayanTobi?style=social)](https://twitter.com/FolayanTobi?t=OioRiCSB1JVO50mb_Az1Ng&s=09) * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiloba-folayan/)
+🔵 **Connect with me:** 
+* [![Follow](https://img.shields.io/twitter/follow/FolayanTobi?style=social)](https://twitter.com/FolayanTobi?t=OioRiCSB1JVO50mb_Az1Ng&s=09) 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiloba-folayan/)
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/4lion_2b/)
 
 <hr>
