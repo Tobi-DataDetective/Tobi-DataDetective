@@ -19,7 +19,6 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
 🔵 **Connect with me:** * [![Follow](https://img.shields.io/twitter/follow/FolayanTobi?style=social)](https://twitter.com/FolayanTobi?t=OioRiCSB1JVO50mb_Az1Ng&s=09) * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiloba-folayan/)
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/4lion_2b/)
 
-
 <hr>
 
 <h3 align="center">Data Science Toolkit:</h3>
@@ -74,6 +73,13 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
 <h3 align="center">Blockchain Toolkit (Level: Beginner)</h3>
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" height="40" width="40">
+    <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" alt="ethereum" height="40" width="40">
+    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" height="40" width="40">
+    <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" alt="mocha" height="40" width="40"> 
+    <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" height="40" width="40"> 
+    <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="ganache" height="40" width="40"> 
+    <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" alt="metamask" height="40" width="40"> 
+    <img src="https://seeklogo.com/images/I/internet-computer-icp-dfinity-logo-72EB24BC44-seeklogo.com.png" alt="icp" height="40" width="40">
 
 </p>
 
@@ -83,9 +89,7 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudiio" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40">
-    <img src="" alt="" height="40" width="40">
-    <img src="" alt="" height="40" width="40">
-    <img src="" alt="" height="40" width="40">
+    <img src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="sandbox" height="40" width="40">
 </p>
 
 <hr>
