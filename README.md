@@ -7,7 +7,7 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
 
 
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE6g6JpgEGulQ/profile-displaybackgroundimage-shrink_350_1400/0/1656084672229?e=1662595200&v=beta&t=E1jWDYXmPAlwOlLAGjxYldRdWnGiIp9D_OdyTPCcSY8)
-<h1 align="center">Hi 👋, I'm Tobiloba Folayan (Tobi)</h1>
+<h1 align="center">👨‍💻, I'm Tobiloba Folayan (Tobi)</h1>
 <h3 align="left">I believe I am a highly effective Data Analyst who possesses a number of core qualities and traits that enable me to produce consistent results for my employer. Over the years, I have built up extensive experience as a Data Analyst and my resume/CV demonstrates
     this. I have the ability to assess each data analysis task from a strategic perspective; meaning the work I carry out will be beneficial to your organizational goals. I have the ability to work to strict deadlines; a high level of numerical and mathematical
     ability; an inquisitive and statistical driven approach to all tasks, and I also possess strong communication and interpersonal skills, which means I can fit quickly and seamlessly into any team or department. Finally, I have a natural passion for
