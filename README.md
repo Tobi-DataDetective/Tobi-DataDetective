@@ -97,7 +97,7 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tobi-DataDetective&count_private=true&show_icons=true&theme=vision-friendly-dark" width="400px" alt="Tobi-DataDetective"> &nbsp;&nbsp; &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi-DataDetective&layout=compact&theme=vision-friendly-dark" width="350px" alt="Tobi-DataDetective">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobi-DataDetective&layout=compact&theme=vision-friendly-dark&langs_count=10" width="350px" alt="Tobi-DataDetective">
     <hr>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobi-datadetective&theme=vision-friendly-dark" alt="tobi-datadetective" /></p>
 
