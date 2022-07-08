@@ -12,13 +12,11 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
     this. I have the ability to assess each data analysis task from a strategic perspective; meaning the work I carry out will be beneficial to your organizational goals. I have the ability to work to strict deadlines; a high level of numerical and mathematical
     ability; an inquisitive and statistical driven approach to all tasks, and I also possess strong communication and interpersonal skills, which means I can fit quickly and seamlessly into any team or department. Finally, I have a natural passion for
     accurate working and attention to detail, which means if you invest in me and hire me as your Data Analyst, the work I will carry out will be of a high-quality and also useful in terms of helping you move forward as an organization.</h3>
-<img align="right" alt ="Data Science" width="600" height="180" src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
+<img align="right" alt="Data Science" width="600" height="180" src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobi-datadetective&label=Profile%20views&color=0e75b6&style=flat" alt="tobi-datadetective"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobi-datadetective&label=Profile%20views&color=0e75b6&style=flat" alt="tobi-datadetective" /> </p>
 
-🔵 **Connect with me:** 
-* [![Follow](https://img.shields.io/twitter/follow/FolayanTobi?style=social)](https://twitter.com/FolayanTobi?t=OioRiCSB1JVO50mb_Az1Ng&s=09) 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiloba-folayan/)
+🔵 **Connect with me:** * [![Follow](https://img.shields.io/twitter/follow/FolayanTobi?style=social)](https://twitter.com/FolayanTobi?t=OioRiCSB1JVO50mb_Az1Ng&s=09) * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiloba-folayan/)
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/4lion_2b/)
 
 
@@ -33,7 +31,11 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" /> </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" height="40" width="40">
+
 </p>
 
 
@@ -48,7 +50,7 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
+
 </p>
 
 <h3 align="center">Web Development Toolkit:</h3>
@@ -63,14 +65,28 @@ https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" width="40">
 </p>
 
 
-<h3 align="center">Web Development ToolKit:</h3>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="40" height="40">
-</div>
+<h3 align="center">Blockchain Toolkit (Level: Beginner)</h3>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" height="40" width="40">
+
+</p>
+
+<h3 align="center">Code Editors & IDE ToolKit:</h3>
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" height="40" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" height="40" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudiio" height="40" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40">
+    <img src="" alt="" height="40" width="40">
+    <img src="" alt="" height="40" width="40">
+    <img src="" alt="" height="40" width="40">
+</p>
 
 <hr>
 <br>
